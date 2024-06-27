@@ -15,8 +15,8 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/PalettePic/palettepic-backend
+    cd palettepic-backend
     ```
 
 2. **Create a virtual environment:**
