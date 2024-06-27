@@ -1,0 +1,4 @@
+Flask==2.0.1
+flask-cors==3.0.10
+Pillow==8.2.0
+colorthief==0.2.1
